@@ -1,92 +1,128 @@
-# 🤖 Mohammad Khademizadeh  
-### AI & Robotics Engineer  |  Full-Stack Industrial Intelligence  
+<!-- Centered Intro -->
+<div align="center">
+
+# 🤖 **Mohammad Khademizadeh**  
+### **AI & Robotics Engineer • Industrial Automation • Computer Vision**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mohamadkhademizadeh-black?logo=github)](https://github.com/mohamadkhademizadeh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Khademizadeh-blue?logo=linkedin)](https://www.linkedin.com/in/mohammad-khademizadeh/)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-Humble-22314E?logo=ros)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
-![TensorRT](https://img.shields.io/badge/TensorRT-NVIDIA-76B900?logo=nvidia)
+
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/ROS2-Humble-22314E?logo=ros"> 
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi"> 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch"> 
+<img src="https://img.shields.io/badge/TensorRT-76B900?logo=nvidia">
+
+</div>
 
 ---
 
-### 👋 About Me  
-I build **intelligent automation systems** that connect **robots, PLCs, and AI models** across the industrial stack — from embedded edge devices to cloud-scale analytics.  
-My work blends **computer vision**, **robotics control**, and **machine learning**, transforming traditional manufacturing into adaptive, data-driven systems.  
+## 👋 **About Me**
+I build **intelligent industrial systems** by connecting **robots, PLCs, AI models, and digital twins** into unified automation pipelines.  
+My specialties include:
 
-> Bridging the gap between industrial automation and artificial intelligence — where sensors meet reasoning.
+✅ Industrial Computer Vision  
+✅ Edge AI Optimization  
+✅ Robotics & Sensor Fusion (ROS2)  
+✅ MLOps for Vision Pipelines  
+✅ Digital Twin + PLC + Factory Integration  
 
----
-
-## 🚀 Featured Projects
-
-### 🧠 AI & Computer Vision
-**1️⃣ Hybrid Anomaly Suite** — *PatchCore + DifferNet unified framework*  
-🔹 Benchmarks industrial defect detection under multiple architectures  
-🔹 Modular datasets, heatmap visualization, and AUROC metrics  
-![Demo Placeholder](docs/img/hybrid-anomaly-demo.gif)
-
-**2️⃣ Line Counter Tracker** — *Real-time production-line counting system*  
-🔹 YOLOv8 + IoU Tracker with Streamlit dashboard  
-🔹 Directional line-crossing, FPS logging, CSV export  
-![Demo Placeholder](docs/img/line-counter-demo.gif)
-
-**3️⃣ Active Learning Loop** — *Continuous training for object detection*  
-🔹 YOLOv8 + uncertainty + diversity sampling  
-🔹 Label Studio → YOLO conversion + FastAPI webhook + Streamlit loop  
-![Demo Placeholder](docs/img/active-learning-demo.gif)
+> *Bridging the gap between automation and intelligence — where sensors meet reasoning.*
 
 ---
 
-### ⚙️ MLOps & Edge AI
-**4️⃣ Vision Serving MLOps** — *FastAPI + Docker + Prometheus pipeline*  
-🔹 Modular deployment for multi-model inference  
-🔹 Health, metrics, and scaling ready for production
+# 🚀 **Featured Projects**
 
-**5️⃣ YOLO Edge Deploy** — *ONNX / TensorRT / OpenVINO backends*  
-🔹 Unified REST API across inference engines  
-🔹 Lightweight, GPU-aware containers with client benchmarks  
-![Demo Placeholder](docs/img/yolo-edge-demo.gif)
+Below is a curated selection of **production-grade, portfolio-ready** AI & Robotics systems that I’ve built.
 
 ---
 
-### 📊 Predictive Analytics
-**6️⃣ Industrial Forecasting Feature Store** — *Prophet + Feast + Streamlit*  
-🔹 Real-time forecasting of production KPIs  
-🔹 Feature versioning, retraining jobs, and interactive dashboard  
-![Demo Placeholder](docs/img/forecasting-demo.gif)
+## 🧠 **AI & Computer Vision**
+
+### 🔹 **Hybrid Anomaly Detection Suite (PatchCore + DifferNet)**
+Industrial anomaly detection with heatmaps, AUROC benchmarking, and dataset loaders.
+
+### 🔹 **DifferNet – Flow-Based Anomaly Detector**
+Full implementation with training pipeline + visualization.
+
+### 🔹 **PCB Defect Detector**
+Attention-UNet segmentation + YOLO classification + inspection overlays.
+
+### 🔹 **YOLO Line Counter Tracker**
+Real-time direction-based counting system with Streamlit visualization.
+
+### 🔹 **Vision MLOps Pipeline (DVC + YOLOv8 + Triton)**
+Reproducible training → evaluation → ONNX export → Triton serving → CI pipeline.
+
+### 🔹 **Active Learning Loop (Label Studio + FastAPI)**
+Automated data labeling workflow using uncertainty sampling.
 
 ---
 
-### 🤖 Robotics & Digital Twins
-**7️⃣ ROS2 Nav2 AI Planner** — *Gazebo sim + AI local planner*  
-🔹 Nav2 global planner + SLAM Toolbox  
-🔹 Python-based reinforcement local planner node  
-![Demo Placeholder](docs/img/ros2-ai-planner-demo.gif)
+## ⚙️ **MLOps & Edge AI**
 
-**8️⃣ PLC Bridge & Digital Twin Dashboard** — *Modbus + ROS2 + Three.js*  
-🔹 PLC signals ↔ ROS2 topics ↔ WebSocket stream  
-🔹 Real-time 3D factory twin visualization  
-![Demo Placeholder](docs/img/digital-twin-demo.gif)
+### 🔹 **YOLO Edge Deployment (ONNX / TensorRT / OpenVINO)**
+Unified inference API + GPU optimization + benchmark suite.
+
+### 🔹 **Vision Serving MLOps Platform**
+FastAPI + Docker + Prometheus monitoring for production ML services.
 
 ---
 
-## 🧰 Tech Stack
+## 📊 **Predictive Analytics**
+
+### 🔹 **Industrial Forecasting + Feature Store**
+Prophet forecasting + Feast feature store + Streamlit dashboard.
+
+---
+
+## 🤖 **Robotics & Digital Twins**
+
+### 🔹 **ROS2 Nav2 AI Planner (Gazebo Simulation)**
+AI-powered local planner layered onto Nav2 + SLAM Toolbox.
+
+### 🔹 **Multi-Sensor Fusion Tracker (Camera + LiDAR)**
+Lightweight fusion node producing clean 2D tracks.
+
+### 🔹 **Radar + Camera + LiDAR Fusion System**
+Advanced multi-modal sensor fusion with gating + weighted LSQ.
+
+### 🔹 **EKF + JPDA Multi-Object Tracker**
+Full probabilistic tracking engine with ID management.
+
+### 🔹 **PLC ↔ ROS2 Bridge + Digital Twin**
+Modbus/TCP ↔ ROS2 topics feeding a realtime Three.js factory twin.
+
+### 🔹 **Gazebo Auto Simulation Testbench**
+Automatic target spawn → noisy detections → metric evaluation.
+
+### 🔹 **PLC Simulator**
+Ladder-logic-inspired PLC sandbox with ROS2 interfaces.
+
+---
+
+# 🧰 **Tech Stack**
+
 **Languages:** Python · C++ · JavaScript · C  
 **Frameworks:** PyTorch · FastAPI · Streamlit · ROS2 · LangChain · OpenVINO · TensorRT  
-**MLOps / Infra:** Docker · Compose · Prometheus · Feast · ONNX · GitHub Actions  
-**Visualization:** Three.js · RViz · Matplotlib · Grafana  
-**Domains:** Computer Vision · Robotics · Edge AI · Industrial Automation · Time-Series Forecasting · LLM RAG  
+**MLOps / Infra:** Docker · DVC · ONNX · Triton · Feast · Prometheus · GitHub Actions  
+**Visualization:** RViz · Three.js · Matplotlib · Grafana  
+**Domains:** Robotics · Computer Vision · Edge AI · Industrial Automation · Forecasting · Digital Twins  
 
 ---
 
-### 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-mohamadkhademizadeh-black?logo=github)](https://github.com/mohamadkhademizadeh)
+<div align="center">
+
+## 📫 **Let’s Connect**
+
+[![GitHub](https://img.shields.io/badge/GitHub-mohamadkhademizadeh-black?logo=github)](https://github.com/mohamadkhademizadeh)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Khademizadeh-blue?logo=linkedin)](https://www.linkedin.com/in/mohammad-khademizadeh/)
-🌐 **Portfolio:** [github.com/mohamadkhademizadeh](https://github.com/mohamadkhademizadeh)
+
+🌐 Portfolio: **https://github.com/mohamadkhademizadeh**
 
 ---
 
-> *“Industrial intelligence is the art of making machines see, think, and act.”*
+### *“Industrial intelligence is the art of making machines see, think, and act.”*
+
+</div>
