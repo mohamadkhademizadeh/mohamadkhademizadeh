@@ -122,7 +122,4 @@ Ladder-logic-inspired PLC sandbox with ROS2 interfaces.
 🌐 Portfolio: **https://github.com/mohamadkhademizadeh**
 
 ---
-
-### *“Industrial intelligence is the art of making machines see, think, and act.”*
-
 </div>
