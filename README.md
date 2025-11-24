@@ -2,124 +2,197 @@
 <div align="center">
 
 # 🤖 **Mohammad Khademizadeh**  
-### **AI & Robotics Engineer • Industrial Automation • Computer Vision**
+### **AI & Robotics Engineer • Embedded Systems • Computer Vision • Data Engineering**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mohamadkhademizadeh-black?logo=github)](https://github.com/mohamadkhademizadeh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Khademizadeh-blue?logo=linkedin)](https://www.linkedin.com/in/mohammad-khademizadeh/)
+[![Google Scholar](https://img.shields.io/badge/Scholar-Google-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=cCgWrboAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Mohammad-Khademizadeh)
 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/ROS2-Humble-22314E?logo=ros"> 
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"> 
 <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi"> 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch"> 
 <img src="https://img.shields.io/badge/TensorRT-76B900?logo=nvidia">
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white">
+<img src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white">
 
 </div>
 
 ---
 
 ## 👋 **About Me**
-I build **intelligent industrial systems** by connecting **robots, PLCs, AI models, and digital twins** into unified automation pipelines.  
-My specialties include:
 
-✅ Industrial Computer Vision  
-✅ Edge AI Optimization  
-✅ Robotics & Sensor Fusion (ROS2)  
-✅ MLOps for Vision Pipelines  
-✅ Digital Twin + PLC + Factory Integration  
+I’m a **Computer & Electronics Engineer** with a Master’s degree in *Computer Engineering for Robotics & Smart Industry* from the **University of Verona** 🇮🇹.
 
-> *Bridging the gap between automation and intelligence — where sensors meet reasoning.*
+I specialize in building **intelligent industrial systems** that merge:
+
+- AI & Deep Learning  
+- Computer Vision  
+- Robotics & Autonomous Systems (ROS2)  
+- Embedded Hardware & IoT  
+- PLC Automation & Digital Twins  
+- Data Engineering & MLOps Pipelines  
+
+> *Bringing together sensing, computation, and automation to build the future of Industry 4.0.*
 
 ---
 
 # 🚀 **Featured Projects**
 
-Below is a curated selection of **production-grade, portfolio-ready** AI & Robotics systems that I’ve built.
+A curated selection of **production-grade** systems across AI, robotics, embedded firmware, and data engineering.
 
 ---
 
-## 🧠 **AI & Computer Vision**
+# 🧠 **AI & Computer Vision**
 
 ### 🔹 **Hybrid Anomaly Detection Suite (PatchCore + DifferNet)**
-Industrial anomaly detection with heatmaps, AUROC benchmarking, and dataset loaders.
+Unsupervised industrial anomaly detection with AUROC benchmarking and heatmaps.
 
 ### 🔹 **DifferNet – Flow-Based Anomaly Detector**
-Full implementation with training pipeline + visualization.
+Full PyTorch implementation + visualization suite.
 
 ### 🔹 **PCB Defect Detector**
-Attention-UNet segmentation + YOLO classification + inspection overlays.
+Attention-UNet segmentation + YOLO classification for PCB quality control.
+
+### 🔹 **YOLOv8 Histopathology Detector**
+Signet-ring cell detection with 95% accuracy on WSI images.
 
 ### 🔹 **YOLO Line Counter Tracker**
-Real-time direction-based counting system with Streamlit visualization.
-
-### 🔹 **Vision MLOps Pipeline (DVC + YOLOv8 + Triton)**
-Reproducible training → evaluation → ONNX export → Triton serving → CI pipeline.
+Real-time direction-based counting system with Streamlit dashboards.
 
 ### 🔹 **Active Learning Loop (Label Studio + FastAPI)**
-Automated data labeling workflow using uncertainty sampling.
+Uncertainty sampling → auto-labeling → retraining cycles.
 
 ---
 
-## ⚙️ **MLOps & Edge AI**
+# ⚙️ **MLOps, Forecasting & Data Engineering**
 
-### 🔹 **YOLO Edge Deployment (ONNX / TensorRT / OpenVINO)**
-Unified inference API + GPU optimization + benchmark suite.
-
-### 🔹 **Vision Serving MLOps Platform**
-FastAPI + Docker + Prometheus monitoring for production ML services.
-
----
-
-## 📊 **Predictive Analytics**
+### 🔹 **Vision MLOps Pipeline (DVC + YOLOv8 + Triton)**
+Reproducible dataset → training → ONNX export → Triton serving → CI/CD.
 
 ### 🔹 **Industrial Forecasting + Feature Store**
-Prophet forecasting + Feast feature store + Streamlit dashboard.
+Prophet forecasting models + Feast feature registry + monitoring dashboard.
+
+### 🔹 **SQL Analytics Warehouse (dbt + Postgres)**
+Star schema, facts/dims, cohort analysis, revenue models.
+
+### 🔹 **MongoDB Semantic Search Engine**
+Hybrid BM25 + embedding vector search with FastAPI.
+
+### 🔹 **Kafka + Cassandra IoT Stream Processor**
+High-throughput ingestion + IoT analytics pipelines.
 
 ---
 
-## 🤖 **Robotics & Digital Twins**
+# 🤖 **Robotics & Automation**
 
-### 🔹 **ROS2 Nav2 AI Planner (Gazebo Simulation)**
-AI-powered local planner layered onto Nav2 + SLAM Toolbox.
-
-### 🔹 **Multi-Sensor Fusion Tracker (Camera + LiDAR)**
-Lightweight fusion node producing clean 2D tracks.
-
-### 🔹 **Radar + Camera + LiDAR Fusion System**
-Advanced multi-modal sensor fusion with gating + weighted LSQ.
+### 🔹 **ROS2 Nav2 AI Planner**
+AI local planner integrated with Nav2 & SLAM Toolbox.
 
 ### 🔹 **EKF + JPDA Multi-Object Tracker**
-Full probabilistic tracking engine with ID management.
+Probabilistic fusion of radar, LiDAR, and camera detections.
+
+### 🔹 **Raidar + LiDAR + Camera Fusion System**
+Heavy-duty multi-sensor fusion with consistency gating.
 
 ### 🔹 **PLC ↔ ROS2 Bridge + Digital Twin**
-Modbus/TCP ↔ ROS2 topics feeding a realtime Three.js factory twin.
+Modbus/TCP automation signals → ROS2 → real-time 3D factory twin.
 
 ### 🔹 **Gazebo Auto Simulation Testbench**
-Automatic target spawn → noisy detections → metric evaluation.
+Automatic target spawns → noisy detections → tracking evaluation.
 
-### 🔹 **PLC Simulator**
-Ladder-logic-inspired PLC sandbox with ROS2 interfaces.
+### 🔹 **TurtleBot3 RANSAC Object Follower**
+Robot navigation using RANSAC on LIDAR clusters.  
+🔗 https://github.com/mohamadkhademizadeh/Object-Following-with-TurtleBot3-using-RANSAC
+
+---
+
+# 🧩 **Embedded Systems & IoT**
+
+### 🔹 **FactoryEdge-X PRO (20,000-line industrial firmware)**
+ESP32 + FreeRTOS + DMA ADC + Modbus + MQTT + OTA + TinyML.
+
+### 🔹 **Smart Home Automation (Bluetooth Controlled)**
+Fully sensorized smart-home replica.  
+🔗 https://github.com/mohamadkhademizadeh/Smart-Home-Replica-Model-Bluetooth-Controlled-
+
+### 🔹 **PLC Simulator + Hardware I/O Mock**
+PLC-style execution cycle with ROS2 + Modbus bridge.
+
+### 🔹 **Digital Twin 3D Visualization**
+Live telemetry rendered in Three.js.
 
 ---
 
-# 🧰 **Tech Stack**
+# 🧮 **Data Science & Analytics**
 
-**Languages:** Python · C++ · JavaScript · C  
-**Frameworks:** PyTorch · FastAPI · Streamlit · ROS2 · LangChain · OpenVINO · TensorRT  
-**MLOps / Infra:** Docker · DVC · ONNX · Triton · Feast · Prometheus · GitHub Actions  
-**Visualization:** RViz · Three.js · Matplotlib · Grafana  
-**Domains:** Robotics · Computer Vision · Edge AI · Industrial Automation · Forecasting · Digital Twins  
+### 🔹 **Heart Failure Prediction**
+Supervised ML with full evaluation metrics.  
+🔗 https://github.com/mohamadkhademizadeh/heart-failure-prediction
+
+### 🔹 **Business Data Visualizations**
+Interactive analytics using Plotly and Bubbly.  
+🔗 https://github.com/mohamadkhademizadeh/Data-Visualizations-for-Business-Decision-Making/
+
+### 🔹 **Big Data System Modeling**
+NoSQL modeling with MongoDB + Cassandra.  
+🔗 https://github.com/mohamadkhademizadeh/Big-Data-System-Analysis-and-Modeling-Project
 
 ---
+
+# 🎓 **Research & Academic Work**
+
+### 📄 *Efficient Visualization of Neural Relightable Images* (ACM Journal)
+🔗 https://iris.univr.it/handle/11562/1141566
+
+### 📘 Master Thesis – *MLIC & Photometric Stereo*
+🔗 https://www.researchgate.net/publication/394088437_master_thesis
+
+### 📗 Bachelor Thesis – *Power Systems Simulation*
+🔗 https://github.com/mohamadkhademizadeh/-Bachelor-s-thesis-in-Simulation-and-review-of-power-systems-with-MATLAB-software
+
+---
+
+# 🏅 **Certifications (Selected)**
+
+- Python Programming – Anaconda  
+- C++ Programming – OpenEDG  
+- AI & Machine Learning – LinkedIn  
+- MATLAB Programming – LinkedIn  
+- SQL for Data Science – LinkedIn  
+- GitHub Professional Certificate – GitHub  
+- Linux Professional Certificate – Canonical  
+- Data Engineering Foundations – Astronomer  
+- Cybersecurity + Network Automation – Microsoft / Arista  
+*(All certificates available on LinkedIn)*
+
+---
+
+# 📊 **GitHub Stats**
 
 <div align="center">
 
-## 📫 **Let’s Connect**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadkhademizadeh&show_icons=true&theme=blueberry)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadkhademizadeh&layout=compact&theme=blueberry)
 
-[![GitHub](https://img.shields.io/badge/GitHub-mohamadkhademizadeh-black?logo=github)](https://github.com/mohamadkhademizadeh)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Khademizadeh-blue?logo=linkedin)](https://www.linkedin.com/in/mohammad-khademizadeh/)
-
-🌐 Portfolio: **https://github.com/mohamadkhademizadeh**
+</div>
 
 ---
+
+# 🤝 **Let’s Connect**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-mohamadkhademizadeh-black?logo=github)](https://github.com/mohamadkhademizadeh)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Khademizadeh-blue?logo=linkedin)](https://www.linkedin.com/in/mohammad-khademizadeh/)  
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate)](https://www.researchgate.net/profile/Mohammad-Khademizadeh)  
+[![Scholar](https://img.shields.io/badge/Scholar-cCgWrboAAAAJ-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=cCgWrboAAAAJ)
+
+📧 **mohamadkhademizadeh@gmail.com**  
+🌍 **Portfolio:** https://github.com/mohamadkhademizadeh
+
 </div>
