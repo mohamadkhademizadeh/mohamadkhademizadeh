@@ -2,7 +2,7 @@
 <div align="center">
 
 # 🤖 **Mohammad Khademizadeh**  
-### **AI & Robotics Engineer • Embedded Systems • Computer Vision • Data Engineering**
+### **Electronic and computer Engineer • Embedded Systems • Computer Vision • machine learning**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mohamadkhademizadeh-black?logo=github)](https://github.com/mohamadkhademizadeh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Khademizadeh-blue?logo=linkedin)](https://www.linkedin.com/in/mohammad-khademizadeh/)
@@ -169,17 +169,6 @@ NoSQL modeling with MongoDB + Cassandra.
 - Data Engineering Foundations – Astronomer  
 - Cybersecurity + Network Automation – Microsoft / Arista  
 *(All certificates available on LinkedIn)*
-
----
-
-# 📊 **GitHub Stats**
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamadkhademizadeh&show_icons=true&theme=blueberry)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadkhademizadeh&layout=compact&theme=blueberry)
-
-</div>
 
 ---
 
