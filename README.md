@@ -1,4 +1,3 @@
-```markdown
 <!-- Centered Intro -->
 <div align="center">
 
