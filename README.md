@@ -2,7 +2,7 @@
 <div align="center">
 
 # 🤖 **Mohammad Khademizadeh**  
-### **AI & Robotics Engineer • Embedded Systems • Computer Vision • Data Engineering**
+### **Computer & Electronics Engineer • Embedded Systems • Computer Vision • Machine learning**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mohamadkhademizadeh-black?logo=github)](https://github.com/mohamadkhademizadeh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Khademizadeh-blue?logo=linkedin)](https://www.linkedin.com/in/mohammad-khademizadeh/)
@@ -66,8 +66,6 @@ I design **AI-powered industrial systems**, combining:
 ---
 
 # 🚀 **Featured Projects**
-
-> **All projects now either have a link OR no link — fully consistent.**
 
 ---
 
